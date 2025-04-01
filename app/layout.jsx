@@ -12,6 +12,7 @@ export const metadata = {
   description: "Book a Ride, to have a fun experience on the water",
 };
 
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
